@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6c42488-88ec-4714-9def-5e9f5823fef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafio 82 - dividindo valores em varias listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 83 - Validando Expressoes matemáticas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 84 - Lista composta e análise de Dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 86 - Matriz em Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 87 - Mais sobre Matriz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 88 - MegaSena Gerador de Palpites.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 89 - Boletim com Listas Compostas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula 18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 19 b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio 78 - Maior e menor valor na Lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio 78 - Maior e menor valor na Lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio 79 - Valores Únicos em uma lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio 79 - Valores Únicos em uma lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio 80 - Lista ordenada sem repetições.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio 80 - Lista ordenada sem repetições.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio 81 - Extraindo Dados de uma lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio 81 - Extraindo Dados de uma lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula 16.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula 16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +41,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Desafio 89 - Boletim com Listas Compostas">
-    <configuration name="Desafio 84 - Lista composta e análise de Dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Aula 19 b">
+    <configuration name="Aula 19 b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Mundo-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 84 - Lista composta e análise de Dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 19 b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio 85 - Listas com pares e ímpares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula 19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Mundo-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 85 - Listas com pares e ímpares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula 19 b" />
+        <item itemvalue="Python.Aula 19" />
         <item itemvalue="Python.Desafio 89 - Boletim com Listas Compostas" />
         <item itemvalue="Python.Desafio 88 - MegaSena Gerador de Palpites" />
         <item itemvalue="Python.Desafio 87 - Mais sobre Matriz" />
-        <item itemvalue="Python.Desafio 85 - Listas com pares e ímpares" />
-        <item itemvalue="Python.Desafio 84 - Lista composta e análise de Dados" />
       </list>
     </recent_temporary>
   </component>
