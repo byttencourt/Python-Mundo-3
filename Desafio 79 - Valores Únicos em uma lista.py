@@ -5,7 +5,7 @@ while True:
         lista.append(entrada)
         print('Número adicionado com sucesso!')
     else:
-        print('Falha! ERROR:0xd07 o número já se encontra na lista..')
+        print('ERROR:0xd07! o número já se encontra na lista..')
     perg = ' '
     while perg not in 'NS':
         perg = str(input('Deseja continuar? [S/N]')).upper()

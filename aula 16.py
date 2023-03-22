@@ -26,9 +26,17 @@ print('cheguei no final da lista.')
 
 print('=' * 30)
 save = lista[:]
-for cont in range(0, 5):
-    lista.append(int(input('digite um novo valor: ')))
-    print(lista)
-    print(save)
+#for cont in range(0, 5):
+    #lista.append(int(input('digite um novo valor: ')))
+   # print(lista)
+    #print(save)
+lanche = ['agua', 'suco', 'comida']
+for c in lanche:
+    print(f'Eu vou comer {c}')
+for count in range(0, len(lanche)):
+    print(f'Eu vou comer {lanche[count]} na posição {count}')
+for pos, dado in enumerate(lanche):
+    print(f'Eu vou comer {dado}, na posição {pos}.')
+
 
 

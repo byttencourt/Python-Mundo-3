@@ -1,7 +1,6 @@
 lista = []
 while True:
     lista.append(int(input('Digite um número: ')))
-
     perg = ' '
     while perg not in 'NS':
         perg = str(input('Quer continuar? [S/N]')).upper()
