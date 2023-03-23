@@ -15,8 +15,8 @@ for i, n in enumerate(lista):
     print(f'{i:<4}{n[0]:<10}{n[2]:>8}')
 while True:
     print('-'*35)
-    escolha = int(input('Quer ver a nota de qual aluno? (999) para sair. '))
-    if escolha == '999':
+    escolha = str(input('Quer ver a nota de qual aluno? (999) para sair. '))
+    if escolha in '999':
         print('Sistema encerrado com Sucesso..')
         break
     if escolha <= len(lista) - 1:
