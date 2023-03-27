@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6c42488-88ec-4714-9def-5e9f5823fef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula 20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 100 – Funções para sortear e somar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 96 – Função que calcula área.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 97 - Um print especial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio 98 – Função de Contador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desario 99 – Função que descobre o maior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 21 Escopo de variaveis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 21 Fatorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 21 Retornos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 101 – Funções para votação.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 102 – Função para Fatorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 103 – Ficha do Jogador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 104 – Validando entrada de dados em Pytho.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 105 – Analisando e gerando Dicionários.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 106 – Sistema interativo de ajuda em Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,15 +45,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Desafio 100 – Funções para sortear e somar">
-    <configuration name="Desafio 100 – Funções para sortear e somar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.Aula 22">
+    <configuration name="Aula 22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Mundo-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 100 – Funções para sortear e somar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio 96 – Função que calcula área" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio 103 – Ficha do Jogador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Mundo-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 96 – Função que calcula área.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 103 – Ficha do Jogador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio 97 - Um print especial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio 104 – Validando entrada de dados em Pytho" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Mundo-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 97 - Um print especial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 104 – Validando entrada de dados em Pytho.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio 98 – Função de Contador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio 105 – Analisando e gerando Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Mundo-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 98 – Função de Contador.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 105 – Analisando e gerando Dicionários.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desario 99 – Função que descobre o maior" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio 106 – Sistema interativo de ajuda em Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Mundo-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desario 99 – Função que descobre o maior.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio 106 – Sistema interativo de ajuda em Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Desafio 100 – Funções para sortear e somar" />
-        <item itemvalue="Python.Desario 99 – Função que descobre o maior" />
-        <item itemvalue="Python.Desafio 98 – Função de Contador" />
-        <item itemvalue="Python.Desafio 97 - Um print especial" />
-        <item itemvalue="Python.Desafio 96 – Função que calcula área" />
+        <item itemvalue="Python.Aula 22" />
+        <item itemvalue="Python.Desafio 106 – Sistema interativo de ajuda em Python" />
+        <item itemvalue="Python.Desafio 105 – Analisando e gerando Dicionários" />
+        <item itemvalue="Python.Desafio 104 – Validando entrada de dados em Pytho" />
+        <item itemvalue="Python.Desafio 103 – Ficha do Jogador" />
       </list>
     </recent_temporary>
   </component>
