@@ -19,4 +19,16 @@ Durante o curso foram abordados os seguintes temas:
 
 # Screenshots
  <img src="https://i.imgur.com/YFRreqZ.png"> 
- <img src="https://i.imgur.com/dgVHSJD.png">
+ <img src="https://i.imgur.com/9TxSXop.png">
+ <img src="https://i.imgur.com/941343H.png">
+ <img src="https://i.imgur.com/UNETK4d.png">
+
+ # Tech Used
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+       
+# Mais detalhes:
+100% Aproveitamento
+ 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=curso&message=concluido&color=GREEN&style=for-the-badge)<br>
+ 
+Ps: Agradecimento especial ao Gustavo Guanabara por compartilhar seu conhecimento e a maestria em Ensinar. 
