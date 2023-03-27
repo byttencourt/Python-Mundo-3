@@ -19,4 +19,4 @@ Durante o curso foram abordados os seguintes temas:
 
 # Screenshots
  <img src="https://i.imgur.com/YFRreqZ.png"> 
- <img src="https://i.imgur.com/aaSoa29.png">
+ <img src="https://i.imgur.com/dgVHSJD.png">
